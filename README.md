@@ -53,4 +53,3 @@
 
 * javascript 语言精粹
 * javascript 模式
-[original-html]
