@@ -1,5 +1,5 @@
 ### 2017/12
-* every can use english -- 李笑来
+* everyone can use english -- 李笑来
 
 ### 2017/11
 * 荒原狼 -- 黑塞
